@@ -10,14 +10,11 @@ span{
 }
 
 p{
-    color: darkgreen;
+    color: blue;
     width: 220px;
-    padding-left: 20px;
+    padding-left: 15px;
 }
 
 body{
-    display: flex;
-    flex-direction: row;
-    justify-content: flex-start;
     font-size: 12px;
 }
